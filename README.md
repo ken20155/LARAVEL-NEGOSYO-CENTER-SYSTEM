@@ -1,3 +1,4 @@
+![Dashboard](Dashboard-Negosyo-Center-02-07-2026_02_45_PM.png)
 Laravel Negosyo Center System
 
 A Laravel-based web application designed to manage Negosyo Center operations, including MSME/client registration, business assistance tracking, reporting, and administrative workflows. The system aims to help Negosyo Centers efficiently organize data and improve service delivery.
